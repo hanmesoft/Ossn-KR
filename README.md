@@ -14,5 +14,5 @@ Based on Ossn as belows;
  
  Thank you for Ossn core Team.
  
- Korean Translation 1.0 based on Ossn 5.2
- 
+ 2021.01.02. - Korean Translation 1.0 based on Ossn 5.2
+ 2021.07.05. - Korean Translation 1.0 based on Ossn 5.6 
